@@ -3,6 +3,8 @@ consul-alerts
 
 [![Join the chat at https://gitter.im/AcalephStorage/consul-alerts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AcalephStorage/consul-alerts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+![https://latex.codecogs.com/gif.latex?a%5E2%3Db%5E2&plus;c%5E2]
+
 A highly available daemon for sending notifications and reminders based on Consul health checks.
 
 Under the covers, consul-alerts leverages Consul's own leadership election and KV store to provide automatic failover and seamless operation in the case of a consul-alerts node failure and ensures that your notifications are still sent.
