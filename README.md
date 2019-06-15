@@ -3,7 +3,7 @@ consul-alerts
 
 [![Join the chat at https://gitter.im/AcalephStorage/consul-alerts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AcalephStorage/consul-alerts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-![https://latex.codecogs.com/gif.latex?a%5E2%3Db%5E2&plus;c%5E2]
+![https://latex.codecogs.com/svg.latex?y%3Dx%5E2]
 
 A highly available daemon for sending notifications and reminders based on Consul health checks.
 
